@@ -357,6 +357,10 @@
 		"parent": "ui",
 		"description": "Libs to display alert, action sheet, notification, popup."
 	}, {
+		"title": "ApplicationDelegate",
+		"id": "applicationdelegate",
+		"parent": "ui"
+	}, {
 		"title": "Blur",
 		"id": "blur",
 		"parent": "ui"
@@ -644,6 +648,11 @@
 		"category": "ai",
 		"description": "An artificial intelligence and machine learning library in Swift.",
 		"homepage": "https://github.com/collinhundley/Swift-AI"
+	},{
+		"title": "Stellar",
+		"category": "animation",
+		"description": "A Physical animation library for swift.",
+		"homepage": "https://github.com/AugustRush/Stellar"
 	}, {
 		"title": "Advance",
 		"category": "animation",
@@ -1894,6 +1903,11 @@
 		"description": "Plots made easy.",
 		"homepage": "https://github.com/aleph7/PlotKit"
 	}, {
+		"title": "SigmaSwiftStatistics",
+		"category": "math",
+		"description": "A collection of functions for statistical calculation.",
+		"homepage": "https://github.com/evgenyneu/SigmaSwiftStatistics"
+	}, {
 		"title": "swix",
 		"category": "math",
 		"description": "A general matrix language.",
@@ -2906,7 +2920,13 @@
 		"category": "ui",
 		"description": "Powerful theme/skin manager for iOS 7+, written in swift.",
 		"homepage": "https://github.com/jiecao-fm/SwiftTheme"
-	}, {
+	},
+	{
+		"title": "DropDown",
+		"category": "ui",
+		"description": "A Material Design drop down for iOS written in Swift.",
+		"homepage": "https://github.com/AssistoLab/DropDown"
+	},{
 		"title": "SwiftValidator",
 		"category": "ui",
 		"description": "UIView validation framework.",
@@ -2961,6 +2981,11 @@
 		"category": "ui",
 		"description": "Automatically caches the object that is confirmed the Open Graph Protocol, and displays it as URL embedded card.",
 		"homepage": "https://github.com/szk-atmosphere/URLEmbeddedView"
+	}, {
+		"title": "UITextField-Navigation",
+		"category": "ui",
+		"description": "UITextField-Navigation adds next, previous and done buttons to the keyboard for your UITextFields. Highly customizable!",
+		"homepage": "https://github.com/T-Pham/UITextField-Navigation"
 	}, {
 		"title": "AlertKit",
 		"category": "alert",
@@ -3031,6 +3056,11 @@
 		"category": "alert",
 		"description": "Fully customizable and extensible action sheet controller written in Swift 2.",
 		"homepage": "https://github.com/xmartlabs/XLActionController"
+	}, {
+		"title": "SuperDelegate",
+		"category": "applicationdelegate",
+		"description": "SuperDelegate provides a clean application delegate interface and protects you from bugs in the application lifecycle.",
+		"homepage": "https://github.com/Square/SuperDelegate"
 	}, {
 		"title": "Blurable",
 		"category": "blur",
@@ -3272,6 +3302,11 @@
 		"description": "The Benchmark module provides methods to measure and report the time used to execute Swift code.",
 		"homepage": "https://github.com/WorldDownTown/Benchmark"
 	}, {
+		"title": "PinpointKit",
+		"category": "utility",
+		"description": "An open-source iOS library in Swift that lets your testers and users send feedback with annotated screenshots and logs using a simple gesture.",
+		"homepage": "https://github.com/Lickability/PinpointKit"
+	}, {
 		"title": "Butterfly",
 		"category": "utility",
 		"description": "A lightweight library for integrating bug-report and feedback features with shake-motion event.",
@@ -3347,10 +3382,10 @@
 		"description": "Hookah is a functional library for Swift.",
 		"homepage": "https://github.com/HookahSwift/Hookah"
 	}, {
-		"title": "Lambdatron",
+		"title": "Cormorant",
 		"category": "utility",
 		"description": "Clojure(ish) interpreter in Swift.",
-		"homepage": "https://github.com/austinzheng/Lambdatron"
+		"homepage": "https://github.com/austinzheng/Cormorant"
 	}, {
 		"title": "LlamaKit",
 		"category": "utility",
@@ -3596,6 +3631,21 @@
 		"category": "blur",
 		"description": "UIVisualEffectView subclass with tint color.",
 		"homepage": "https://github.com/efremidze/VisualEffectView"
+	}, {
+		"title": "SwiftLinkPreview",
+		"category": "utility",
+		"description": "It makes a preview from an url, grabbing all information such as title, relevant texts and images.",
+		"homepage": "https://github.com/LeonardoCardoso/SwiftLinkPreview"
+	}, {
+		"title": "InfoView",
+		"category": "ui",
+		"description": "Swift based simple information view with pointed arrow.",
+		"homepage": "https://github.com/anatoliyv/InfoView"
+	}, {
+		"title": "IconLabel",
+		"category": "label",
+		"description": "UILabel with image placed from left or right.",
+		"homepage": "https://github.com/anatoliyv/IconLabel"
 	}
 ]
 }
